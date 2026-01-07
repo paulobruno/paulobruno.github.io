@@ -14,6 +14,10 @@ main:
     url: /about/
 
 papers-sidebar:
+  - title: 2025
+    children:
+      - title: "ECML PKDD 2025"
+        url: /publication/ECML-PKDD-mainle/
   - title: 2024
     children:
       - title: "SBGames 2024"
