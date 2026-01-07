@@ -16,6 +16,8 @@ main:
 papers-sidebar:
   - title: 2024
     children:
+      - title: "SBGames 2024"
+        url: /publication/SBGames-using-curriculum/
       - title: "HHAI 2024"
         url: /publication/HHAI-exploring/
       - title: "JOSS 2024"
