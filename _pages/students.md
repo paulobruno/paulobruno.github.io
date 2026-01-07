@@ -17,18 +17,13 @@ I am lucky to have had the opportunity to help some students over the years and 
   <li style="text-align:left"><a href="https://www.linkedin.com/in/halisson-rodrigo-7b803651/">Halisson Rodrigo</a>, since 2020 (co-advisor)</li>
 </ul>
 
-#### MSc
-
-<ul>
-  <li style="text-align:left"><a href="https://romulofff.github.io/">Rômulo Férrer Filho</a>, since 2021</li>
-</ul>
-
 
 ## Former Students
 
 #### MSc
 
 <ul>
+  <li style="text-align:left"><a href="https://romulofff.github.io/">Rômulo Férrer Filho</a>, 2021-2024</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/magnomont12">Alexandre Magno</a>, 2021-2024</li>
   <li style="text-align:left"><a href="https://www.linkedin.com/in/anderson-oliveira-b65099133/">Anderson Oliveira</a>, 2019-2020 (co-advisor)</li>
 </ul>
