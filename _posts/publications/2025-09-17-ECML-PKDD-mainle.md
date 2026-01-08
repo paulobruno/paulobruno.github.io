@@ -42,6 +42,15 @@ There is an increasing need to explain machine learning decisions in an understa
 </p>
 
 
+### Slides
+
+<div style="position:relative;width:100%;overflow:hidden;padding-top:59.27%">
+    <iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;border:none" src="https://docs.google.com/presentation/d/e/2PACX-1vQEL15KOPpUqosdraKh4SW7Pfl1B5nS-h5KkyjcFQ8DrgZO-bPwkO0knjUBEJ8vtc_1SQ6_A3V8sY1Q/embed?start=true&loop=false&delayms=30000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+[[Slides](https://docs.google.com/presentation/d/e/2PACX-1vQEL15KOPpUqosdraKh4SW7Pfl1B5nS-h5KkyjcFQ8DrgZO-bPwkO0knjUBEJ8vtc_1SQ6_A3V8sY1Q/pub?start=true&loop=false&delayms=3000)] [[PDF](/assets/pdfs/EcmlPkdd2025Slides.pdf)]
+
+
 ### BibTeX
 
 <p style="text-align:left">
