@@ -57,8 +57,8 @@ There is an increasing need to explain machine learning decisions in an understa
     Giannotti, Fosca and
     Raimondi, Franco and
     Santos, Alexandre},
-  title = { {MAINLE}: A Multi-Agent, Interactive, Natural Language Local Explainer of Classification   Tasks},
-  booktitle = {Machine Learning and Knowledge Discovery in Databases. Research Track: European   Conference, ECML PKDD 2025, Porto, Portugal, September 15--19, 2025, Proceedings, Part IV},
+  title = { {MAINLE}: A Multi-Agent, Interactive, Natural Language Local Explainer of Classification Tasks},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2025, Porto, Portugal, September 15--19, 2025, Proceedings, Part IV},
   publisher = {Springer-Verlag},
   address = {Berlin, Heidelberg},
   pages = {149--165},
