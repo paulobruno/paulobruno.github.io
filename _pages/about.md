@@ -159,5 +159,5 @@ Before, I worked with <i>Digital Image Processing</i> for Biometrics and fingerp
 ## Curriculum Vitae
 
 <p style="text-align:left;">
-You can find my full CV <a href="/assets/cv/PauloBrunoCv.pdf">here</a> and also a <a href="/assets/cv/PauloBrunoResume.pdf">one-page resumé</a>.
+You can find my full CV <a href="/assets/cv/PauloBrunoCv.pdf">here</a> and also a <a href="/assets/cv/PauloBrunoResume.pdf">one-page résumé</a>.
 </p>
